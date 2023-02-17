@@ -17,7 +17,8 @@ else
     exit
 fi
 
-cp ../TestListExamples.java ./student-submission;
+cp ../TestListExamples.java ./
+cp -r ../lib ./
 #cp ../ ./student-submission/TestListExamples.java;
 
 
